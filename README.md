@@ -14,7 +14,7 @@ La organización de los archivos en este repositorio es la siguiente para facili
     * 📄 **[72505394728.csv](./data/Datos%20crudos/72505394728.csv)** - Datos meteorológicos crudos (NOAA)
     * 📄 **[Motor_Vehicle_Collisions_-_Crashes_20260906.csv](./data/Datos%20crudos/Motor_Vehicle_Collisions_-_Crashes_20260906.csv)** - Datos de colisiones
   * 📁 `Datos procesados/`
-    * 📄 **[accidentes_ny_limpio.csv](./data/Datos%20procesados/accidentes_ny_limpio.csv)** - Dataset final procesado y limpio
+    * 📄 **[accidentes_ny_limpio.rar](./data/Datos%20procesados/accidentes_ny_limpio.rar)** - Dataset final procesado y limpio
 * 📁 `notebooks/`
   * 📄 **[exploracion_datos.ipynb](./notebooks/exploracion_datos.ipynb)** - Notebook de Jupyter con el análisis paso a paso
 * 📁 `src/`
